@@ -1,9 +1,9 @@
 "# promt-war1" 
-# 🛡️ TruthShield AI
+# 🛡️ DEEP TRUST AI
 
 ## Verify Reality. Protect Truth.
 
-TruthShield AI is an advanced AI-powered platform designed to detect deepfakes, verify digital content authenticity, and combat misinformation. The system provides transparent and explainable analysis through visual heatmaps, trust scores, and forensic reports.
+Deep trust AI is an advanced AI-powered platform designed to detect deepfakes, verify digital content authenticity, and combat misinformation. The system provides transparent and explainable analysis through visual heatmaps, trust scores, and forensic reports.
 
 ---
 
@@ -11,7 +11,7 @@ TruthShield AI is an advanced AI-powered platform designed to detect deepfakes, 
 
 With the rapid growth of AI-generated content, deepfake videos, manipulated images, synthetic audio, and fake news have become major threats to public trust, especially during elections and important public events.
 
-TruthShield AI helps users identify manipulated content and understand exactly where and how the content was altered.
+Deep trust AI helps users identify manipulated content and understand exactly where and how the content was altered.
 
 ---
 
