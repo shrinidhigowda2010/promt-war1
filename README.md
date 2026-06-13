@@ -1,4 +1,4 @@
-"# promt-war1" 
+"# prompt-war1" 
 # 🛡️ DEEP TRUST AI
 
 ## Verify Reality. Protect Truth.
@@ -14,6 +14,9 @@ With the rapid growth of AI-generated content, deepfake videos, manipulated imag
 Deep trust AI helps users identify manipulated content and understand exactly where and how the content was altered.
 
 ---
+WEBSITE LINK 
+https://tranquil-creponne-4b93c5.netlify.app
+OPEN THIS TO CHECK THE WEB THAT WE HAVE DEVELOPED 
 
 ## ✨ Key Features
 
